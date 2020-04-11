@@ -18,7 +18,6 @@ var options = [
   "My sources say no",
   "Outlook not so good",
   "Very doubtful",
-  "Reply hazy, try again",
   "Ask again later",
   "Better not tell you now",
   "Cannot predict now",
